@@ -20,13 +20,13 @@ Convierto problemas de ingeniería y operación en software que funciona en prod
 
 | Proyecto | Qué resuelve | Tecnología |
 | --- | --- | --- |
+| [**Laboratorio de Ensayos Dinámicos — DICTUC**](https://demo-dictuc-git-main-debymgs-projects.vercel.app/) | Dirección de proyectos de ensayo de aisladores y disipadores sísmicos: instrumentación, adquisición de datos y scripts que automatizan el procesamiento de resultados. | MATLAB · LabVIEW · CompactDAQ |
 | [**TuActivoUp**](https://www.tuactivoup.com) | Portal de gestión de activos para empresas de mantenimiento: fichas de equipos, planes de mantención, calibración e inspección, y un copiloto con IA que responde sobre cada activo sin inventar datos. | React · Supabase · Make · OpenAI |
 | [**NoPierdasCitas**](https://nopierdascitas.cl) | Sistema de chat automatizado que funciona como un triaje: recibe los mensajes de WhatsApp, los clasifica con IA para filtrar los casos y los deriva a quien corresponde, alertando los urgentes. | n8n · WAHA · LLM · WhatsApp |
 | [**Portal de Vacaciones**](https://vacaciones.asobanca.workers.dev/demo) · *en producción* | Reemplaza la planilla y los correos de una asociación gremial bancaria: solicitud, revisión y aprobación de vacaciones con saldo de días hábiles automático, calendario del equipo e historial trazable. [Probar demo ↗](https://vacaciones.asobanca.workers.dev/demo) | Next.js · Cloudflare Workers · D1 · Drizzle |
 | [**App de Finanzas Personales — Bolsillos VE**](https://www.bolsillosve.com/demo/inicio) · *en producción* | App de finanzas personales multimoneda (bolívares y dólares con tasa BCV), instalable como PWA: bolsillos, movimientos, calendario y planificación en una sola app. [Probar demo ↗](https://www.bolsillosve.com/demo/inicio) | Next.js · Supabase · PWA |
 | [**Gemelos Digitales**](https://gemelos-digitales.vercel.app) | Dashboard para visualizar activos a partir de nubes de puntos y cruzarlos con datos de sensores (temperatura, vibración), orientado a mantenimiento predictivo. | React · Vite · Visualización 3D · Vercel |
 | **Índice de Salud Financiera** | Proyecto para una asociación gremial bancaria: cuestionario ciudadano con un bot que devuelve orientación educativa y consolida las respuestas en un indicador. | n8n · Bot conversacional · Analítica de datos |
-| [**Laboratorio de Ensayos Dinámicos — DICTUC**](https://www.dictuc.cl/unidades/laboratorio-de-ensayos-dinamicos/) | Dirección de proyectos de ensayo de aisladores y disipadores sísmicos: instrumentación, adquisición de datos y scripts que automatizan el procesamiento de resultados. | MATLAB · LabVIEW · CompactDAQ |
 
 > 🗂️ El recorrido completo, con mini-demos de cada proyecto, está en mi [**portafolio**](https://portafolio-deborah-murati.vercel.app).
 
