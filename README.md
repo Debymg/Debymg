@@ -33,7 +33,6 @@ Convierto problemas de ingeniería y operación en software que funciona en prod
 ### Otros proyectos
 
 - **[ResiLogic](https://resilogic.org):** simulador académico de resiliencia organizacional, con equipos, rondas y roles de usuario. *React · Supabase*
-- **[Correlation Table](https://github.com/Debymg/Correlation-table):** tabla de correlación interactiva desarrollada para el IESA. *React · Material UI*
 
 ---
 
