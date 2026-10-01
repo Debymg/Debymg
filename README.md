@@ -32,7 +32,7 @@ Convierto problemas de ingeniería y operación en software que funciona en prod
 
 ### Otros proyectos
 
-- **[ResiLogic](https://resilogic.org):** simulador académico de resiliencia organizacional, con equipos, rondas y roles de usuario. *React · Supabase*
+- **[ResiLogic](https://resilogic.org):** simulador académico de resiliencia organizacional, con equipos, rondas y roles de usuario. *React · Vite · Python (FastAPI) · Supabase · Railway*
 
 ---
 
